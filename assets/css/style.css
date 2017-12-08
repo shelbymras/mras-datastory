@@ -1,0 +1,6 @@
+section#personal div,
+section#social div,
+section#article div {
+  min-height: 250px;
+  margin-bottom: 15px;
+}
