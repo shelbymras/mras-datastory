@@ -1,6 +1,28 @@
+header {
+  min-height: 100px;
+  color: #96897f;
+  font-family: georgia;  
+}
+div {
+  font-weight: bold
+}
 section#personal div,
 section#social div,
-section#article div {
-  min-height: 250px;
-  margin-bottom: 15px;
+section#articles div {
+  min-height: 100px;
+  margin: 15px;
+  font-family: georgia;
+  
+}
+section#personal div {
+  background: #c8c3cc;
+  color: black
+}
+section#social div {
+  background: #563f46;
+  color: white
+}
+section#articles div {
+  background: #8ca3a3;
+  color: black
 }
