@@ -1,3 +1,6 @@
+/* ===================
+   General styles
+   =================== */
 header {
   min-height: 100px;
   color: #96897f;
@@ -33,3 +36,15 @@ section#articles {
   	grid-gap: 15px;
   	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   	}
+  
+  div.video-container {
+  position: relative;
+  width: 100%;
+}
+div.video-container iframe {
+  position: absolute;
+  top: 0; left: 0;
+  margin-left: 15px;
+  width: 80%;
+  height: 80%;
+}	
