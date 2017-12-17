@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="shelbymras.datavisualization.svg"
+   sodipodi:docname="generic-dataviz.svg"
    inkscape:export-filename="/Users/shelbymras/Documents/ENGL 3844/mrsaShelby.datavisualization.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -727,7 +727,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42426407"
-     inkscape:cx="776.05411"
+     inkscape:cx="786.66071"
      inkscape:cy="414.80039"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -2106,7 +2106,7 @@
          id="tspan5483"
          x="16.315973"
          y="167.89848"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <path
        style="fill:url(#linearGradient5505);fill-opacity:1;stroke:#000000;stroke-width:0.06225494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 20.894393,146.98742 15.179798,161.8327 H 27.085184 Z"
@@ -2453,10 +2453,7 @@
        y="174.03986"
        x="393.20517"
        id="image5550"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAWCAYAAADn7z3uAAAABHNCSVQICAgIfAhkiAAAADxJREFU
-GJXtyCEOwDAMBMGNFWLpsOH9/28GhUZVysvKO3CW7SMJgJk5WxLdDUBVEbz88TV2Zl62F0BE3A8m
-mQsgmqIQDQAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAWCAYAAADn7z3uAAAABHNCSVQICAgIfAhkiAAAADxJREFU GJXtyCEOwDAMBMGNFWLpsOH9/28GhUZVysvKO3CW7SMJgJk5WxLdDUBVEbz88TV2Zl62F0BE3A8m mQsgmqIQDQAAAABJRU5ErkJggg== "
        preserveAspectRatio="none"
        height="5.8208332"
        width="1.0583333" />
@@ -2475,6 +2472,6 @@ mQsgmqIQDQAAAABJRU5ErkJggg==
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.44120407px;font-family:'Luxi Serif';-inkscape-font-specification:'Luxi Serif Bold'">Interaction with Notfications </flowPara><flowPara
          style="font-size:48px"
          id="flowPara5729"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.44120407px;font-family:'Luxi Serif';-inkscape-font-specification:'Luxi Serif Bold'"
-   id="flowSpan5731">While Doing Schoolwork</flowSpan> </flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.44120407px;font-family:'Luxi Serif';-inkscape-font-specification:'Luxi Serif Bold'"
+           id="flowSpan5731">While Doing Schoolwork</flowSpan></flowPara></flowRoot>  </g>
 </svg>
