@@ -5,12 +5,16 @@ header {
   min-height: 100px;
   color: #96897f;
   font-family: georgia;  
-}
-div {
   font-weight: bold
-	}
+}
+
 img {
-width: 50%
+width: 100%
+}
+section#personal div.content-wrapper img {
+  width: 100px;
+  float: left;
+  margin-right: 30px;
 }
 section#personal div,
 section#social div,
