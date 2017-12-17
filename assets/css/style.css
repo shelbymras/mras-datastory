@@ -46,11 +46,11 @@ section#articles {
  /* ===================
    iframe video fix
    =================== */ 
-  div.video-container {
+  section#social div.video-container {
   position: relative;
   width: 100%;
 }
-div.video-container iframe {
+section#social div.video-container iframe {
   position: absolute;
   top: 0; left: 0;
   margin-left: 15px;
