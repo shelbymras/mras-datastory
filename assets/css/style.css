@@ -36,7 +36,9 @@ section#articles {
   	grid-gap: 15px;
   	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   	}
-  
+ /* ===================
+   iframe video fix
+   =================== */ 
   div.video-container {
   position: relative;
   width: 100%;
