@@ -9,6 +9,9 @@ header {
 div {
   font-weight: bold
 	}
+img {
+width: 50%
+}
 section#personal div,
 section#social div,
 section#articles div {
