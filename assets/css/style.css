@@ -2,8 +2,8 @@
    General styles
    =================== */
 header {
-  min-height: 100px;
-  color: #96897f;
+  min-height: 200px;
+  color: white;
   font-family: georgia;  
   font-weight: bold
 }
