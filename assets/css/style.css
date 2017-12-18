@@ -7,6 +7,22 @@ background: linear-gradient(to bottom right, darkgray, white);
 img {
 width: 100%
 }
+/* ===================
+   iframe video fix
+   =================== */ 
+div.video-container {
+  position: relative;
+}
+div.video-container iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+/*   height: 100%; */
+}
+.flex-center {
+	display: flex;
+	justify-content: center;
+}
 
 header {
   min-height: 200px;
@@ -20,9 +36,8 @@ section#personal div.content-wrapper img {
   margin-right: 30px;
 }
 section#personal div,
-section#social div,
-section#articles div {
-  min-height: 100px;
+section#social div {
+  min-height: 500px;
   margin: 15px;
   font-family: georgia;
   }
@@ -30,7 +45,7 @@ section#personal div {
   background: #c8c3cc;
   color: black
 	}
-section#social div {
+section#social {
   background: #563f46;
   color: white
 	}
@@ -50,17 +65,3 @@ section#social {
 	display: grid;
   	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   	}
- /* ===================
-   iframe video fix
-   =================== */ 
-  section#social div.video-container {
-  position: relative;
-  width: 100%;
-}
-section#social div.video-container iframe {
-  position: absolute;
-  top: 0; left: 0;
-  margin-left: 10px;
-  width: 100%;
-  height: 100%;
-}	
