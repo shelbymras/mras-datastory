@@ -48,7 +48,6 @@ background: white
 section#personal,
 section#social {
 	display: grid;
-  	grid-gap: 15px;
   	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   	}
  /* ===================
