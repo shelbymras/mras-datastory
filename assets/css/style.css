@@ -7,6 +7,24 @@ background: linear-gradient(to bottom right, darkgray, white);
 img {
 width: 100%
 }
+/* =================
+	Typography scheme
+	================ */
+header {
+  min-height: 150px;
+  color: azure;
+  font-size: 30px;
+  font-family: georgia;  
+  font-weight: bold
+}
+h2 {
+	font-size: 20px;
+	font-family: georgia;
+	font-weight: bold
+	}
+p { 
+	font-family: georgia;
+	} 
 /* ===================
    iframe video fix
    =================== */ 
@@ -23,21 +41,12 @@ div.video-container iframe {
 	display: flex;
 	justify-content: center;
 }
-
-header {
-  min-height: 200px;
-  color: azure;
-  font-family: georgia;  
-  font-weight: bold
-}
-section#personal div.content-wrapper img {
-  width: 100px;
-  float: left;
-  margin-right: 30px;
-}
+/* ================
+	section elements
+	=============== */
 section#personal div,
 section#social div {
-  min-height: 500px;
+  min-height: 100px;
   margin: 15px;
   font-family: georgia;
   }
@@ -45,18 +54,25 @@ section#personal div {
   background: #c8c3cc;
   color: black
 	}
+section#personal div.media-wrapper {
+background: none;
+margin: 25px 0px 0px 0px;
+}
 section#social {
   background: #563f46;
   color: white
 	}
-section#articles div {
-  background: #8ca3a3;
-  color: black
-	}
-section#personal div.media-wrapper {
-background: white
+section#personal div.content-wrapper img {
+  width: 100px;
+  float: left;
+  margin-right: 30px;
 }
-
+/* ==================
+	footer
+	================= */
+footer {
+	margin: 10px 0px 10px 10px
+}
 /* ==================
 	Grid display
 	================= */
@@ -65,3 +81,4 @@ section#social {
 	display: grid;
   	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   	}
+
