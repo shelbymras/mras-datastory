@@ -4,6 +4,9 @@
 html {
 background: linear-gradient(to bottom right, darkgray, white);
 }
+img {
+width: 100%
+}
 
 header {
   min-height: 200px;
