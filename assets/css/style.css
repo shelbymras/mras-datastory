@@ -35,6 +35,9 @@ section#articles div {
   background: #8ca3a3;
   color: black
 	}
+section#personal div.media-wrapper {
+background: white
+}
 
 section#personal,
 section#social,
