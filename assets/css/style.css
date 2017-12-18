@@ -7,7 +7,7 @@ header {
   font-family: georgia;  
   font-weight: bold
 }
-#grad {
+html {
   background: linear-gradient(to bottom right, gainsboro, white);
 }
 img {
